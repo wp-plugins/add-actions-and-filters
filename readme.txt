@@ -6,7 +6,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.2.1
 Tested up to: 3.5.1
-Stable tag: trunk
+Stable tag: 1.0
 
 Add PHP Code to create your own Actions and Filters
 
@@ -15,9 +15,11 @@ Add PHP Code to create your own Actions and Filters
 Add PHP Code to create your own Actions and Filters.
 
 Provides a place to add your code that is more convenient than putting it in your theme's functions.php file.
-Existing WordPress documentation suggests adding your own functions and filters in the theme's functions.php file.
 
-This is not a good idea because
+Add your code in the administration area -> <strong>Tools</strong> -> <strong>Add Actions and Filters</strong>
+
+What this plugin? 
+Existing WordPress documentation suggests adding your own functions and filters in the theme's functions.php file. This is not a good idea because
 
 * If you upgrade your theme, this file can be overwritten and
 * if you change your theme then you need to add the same code to that theme as well.
